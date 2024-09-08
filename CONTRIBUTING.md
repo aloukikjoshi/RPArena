@@ -31,7 +31,7 @@ We welcome contributions from everyone! Whether you're fixing bugs, adding new f
   - Add detailed explanations for each project.
   - Include code examples and usage instructions.
   - Provide troubleshooting tips for common issues.
-  - Update the [README.md](https://github.com/aloukikjoshi/RPArena/README.md) file with the new information.
+  - Update the [README.md](README.md) file with the new information.
 
 ### 🚀 Adding New Automation Projects
 
@@ -41,7 +41,7 @@ We welcome contributions from everyone! Whether you're fixing bugs, adding new f
   - Develop new automation projects.
   - Ensure each project has a clear `README.md` file with instructions.
   - Include necessary dependencies and setup instructions.
-  - Add a small description of the new project to the main [README.md](https://github.com/aloukikjoshi/RPArena/README.md) file of the repository.
+  - Add a small description of the new project to the main [README.md](README.md) file of the repository.
 
 ### 🐛 Fixing and Optimizing Existing Projects
 
@@ -56,7 +56,7 @@ We welcome contributions from everyone! Whether you're fixing bugs, adding new f
 
 ## Adding Details to `README.md`
 
-When adding new projects or making significant changes, please ensure that the main [README.md](https://github.com/aloukikjoshi/RPArena/README.md) file is updated with the following details:
+When adding new projects or making significant changes, please ensure that the main [README.md](README.md) file is updated with the following details:
 - A brief description of the new project or feature.
 - Instructions on how to use the new project or feature.
 - Any additional setup or dependencies required.
