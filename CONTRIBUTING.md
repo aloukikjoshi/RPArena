@@ -41,7 +41,6 @@ We welcome contributions from everyone! Whether you're fixing bugs, adding new f
   - Develop new automation projects.
   - Ensure each project has a clear `README.md` file with instructions.
   - Include necessary dependencies and setup instructions.
-  - Add unit tests for the new projects.
   - Add a small description of the new project to the main [README.md](https://github.com/aloukikjoshi/RPArena/blob/main/README.md) file of the repository.
 
 ### 🐛 Fixing and Optimizing Existing Projects
@@ -49,8 +48,6 @@ We welcome contributions from everyone! Whether you're fixing bugs, adding new f
 - **Issue:** Fix and Optimize Existing Projects
 - **Description:** Identify and fix bugs in the existing automation projects. Review and optimize the existing code for better performance and readability. Provide detailed descriptions of the bugs and the steps to reproduce them. Suggest improvements and refactor code where necessary.
 - **Tasks:**
-  - Review the existing projects for bugs.
-  - Document the bugs with steps to reproduce.
   - Fix the identified bugs.
   - Analyze the current code for performance bottlenecks.
   - Refactor code to improve readability and maintainability.
