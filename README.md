@@ -12,6 +12,9 @@ Automate the process of logging into Instagram using Selenium WebDriver. This pr
 ### 📈 Stock Market Price Tracker and Notifier
 Track stock prices from Yahoo Finance and receive email alerts for significant price changes. This project also saves historical prices and generates plots for price trends.
 
+### 📧 Automate Daily Email Reports
+Automate the process of generating and sending daily email reports. This project includes customizable report template, data processing, and error handling.
+
 ## 🚀 Getting Started
 1. **Clone the repository:**
     ```sh
