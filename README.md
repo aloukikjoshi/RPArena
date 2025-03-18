@@ -1,7 +1,5 @@
 # 🤖 RPArena: The Automation Hub
 
-![RPArena Banner](https://via.placeholder.com/1200x300.png?text=RPArena+Automation+Hub&color=000000)
-
 ## 🌟 Welcome to RPArena!
 RPArena is your go-to repository for all things automation. Here, you'll find a collection of projects designed to automate various tasks, from web scraping to sending notifications. Our goal is to make automation accessible and fun for everyone.
 
